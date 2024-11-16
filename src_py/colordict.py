@@ -75,7 +75,6 @@ THECOLORS = {
     "chartreuse2": (118, 238, 0, 255),
     "chartreuse3": (102, 205, 0, 255),
     "chartreuse4": (69, 139, 0, 255),
-    "chartreuse5": (142, 216, 0, 0.55),
     "chocolate": (210, 105, 30, 255),
     "chocolate1": (255, 127, 36, 255),
     "chocolate2": (238, 118, 33, 255),
